@@ -1,14 +1,10 @@
-# Krypt - Web 3.0 Blockchain Application
-![Krypt](https://i.ibb.co/DVF4tNW/image.png)
+# NFTspace - Web 3.0 Blockchain Decentralized Application
+
+![Collection](https://github.com/Wael1333/NFTspace/assets/129902335/fe21e54d-bd0d-4b6f-95f1-5305eb78c7f9)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial.
-
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
-
-Project created in collaboration with Enyel Sequeira: 
-Portfolio - https://www.enyelsequeira.com
-E-mail - enyelsequeira1994@gmail.com
-Want me to cover the project you've created? Send me an e-mail 👌
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+Using Web 3.0 methodologies, Solidity, Web 3, Alchemy, Hardhat and Metamask.
+Project created in my intership with Jomma for the my Licence degree bachelor. 
+E-mail - khalfaouiw3@gmail.com
+end me an e-mail 👌
+## WEB 3 DAPPs
