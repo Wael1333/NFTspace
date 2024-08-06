@@ -4,7 +4,7 @@
 
 ## Introduction
 Using Web 3.0 methodologies, Solidity, Web 3, Alchemy, Hardhat and Metamask.
-Project created in my intership with Jomma for the my Licence degree bachelor. 
+Project created in my intership with Jomma for my bachelor degree graduation project. 
 E-mail - khalfaouiw3@gmail.com
 send me an e-mail 👌
 ## WEB 3 DAPPs
